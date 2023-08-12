@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samalmonte01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/SamAlmonte01</h3>
 <p align="left">
 </p>
 
