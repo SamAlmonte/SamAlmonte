@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sam Almonte</h1>
-<h3 align="center">A passionate backend developer from Philadelphia</h3>
 
 - 🔭 I’m currently working on **Pomodoro application**
 
